@@ -1,13 +1,22 @@
 # Robotic Arm using Arduino
 Mini Project for Smart Manufacturing
 
-This project that involves building a robotic arm controlled by an Arduino board. The arm is designed to have six degrees of freedom and is capable of moving in a variety of directions and angles.
+This mini project focuses on creating a robotic arm that can be controlled through an Arduino board. The arm has the ability to move in various angles and directions with six degrees of freedom. The code, written in C++ language, can be uploaded onto the Arduino board using the Arduino Integrated Development Environment (IDE).
 
-The code is written in C++ language and is designed to be uploaded to the Arduino board using the Arduino IDE.
+To control the movement of the arm, servo motors are used and the code provides instructions for controlling each servo motor independently. The user has the capability to input commands that can direct the arm to move in a specific direction while also having control over the speed and angle of movement.
 
-The project involves using servo motors to control the movement of the arm, and the code provides instructions for controlling each servo motor individually. The user can input commands to move the arm in a specific direction, as well as control the speed and angle of movement.
-
-The model is designed to fit the necessary components and can be assembled according to the provided instructions.
+All necessary components included in the project are:
+1. A set of six popsicle sticks.
+2. A U-shaped attachment made of PVC for the arm.
+3. Four rubber bands.
+4. A PVC pipe with a diameter of 50mm.
+5. A PVC pipe with a diameter of 20mm.
+6. A casing for electrical PVC wire.
+7. A micro Farad capacitor.
+8. An adapter with a voltage of 6V.
+9. An Arduino Uno board.
+10. Wires specifically for the Uno board.
+11. A motor that is capable of rotating to different angles - a servo motor.
 
 
 <p align="center">
