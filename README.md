@@ -1,24 +1,33 @@
 # Robotic Arm using Arduino
-This project implements a robotic arm controlled by an Arduino microcontroller. The arm consists of multiple segments connected by servo motors that can be controlled using a remote control. The project uses Arduino programming to control the servo motors and to read input from the remote control.
+The Robotic Arm using Arduino project is a mini project designed for smart manufacturing. The project involves the creation of a six-degree-of-freedom robotic arm using an Arduino board. The arm's movement is controlled using servo motors, and the control code is written in C++ and can be uploaded onto the Arduino board using the Arduino IDE.
 
-The robotic arm can be used for various applications such as picking and placing objects in industrial automation, sorting objects in a warehouse, and many more. The arm can be controlled remotely using the remote control, making it easy to operate and maneuver.
+The project provides users with the ability to control the arm's movement in various directions and angles. The user can input commands that direct the arm to move in a specific direction while having control over the speed and angle of movement.
 
-The project includes a detailed description of the hardware components used and how they are connected to the Arduino microcontroller. The software implementation is also described in detail, including the programming logic and control flow.
+To build the robotic arm, the necessary components include six popsicle sticks, a U-shaped PVC attachment for the arm, four rubber bands, a PVC pipe with a diameter of 50mm, a PVC pipe with a diameter of 20mm, a casing for electrical PVC wire, a micro Farad capacitor, a 6V adapter, an Arduino Uno board, wires specifically for the Uno board, and a servo motor capable of rotating to different angles.
 
-The project is open source and can be customized and modified to suit specific requirements. The project is suitable for anyone interested in robotics and automation and provides an opportunity to learn about the basics of robotics and how to control robotic arms using Arduino.
+The project aims to create a functional robotic arm that can be utilized for various manufacturing applications. The accompanying image provides a visual representation of the robotic arm.
 
-## Getting Started
-To get started with this project, you will need an Arduino board, servo motors, a remote control, and other hardware components. You will also need to have the Arduino IDE installed on your computer to program the Arduino board.
+## List of necessary components:
 
-The project includes a detailed list of hardware components and instructions on how to connect them to the Arduino board. It also includes the source code for the Arduino program that controls the robotic arm.
+1. Six popsicle sticks
 
-## Usage
-The robotic arm can be controlled using the remote control included in the project. The remote control allows the user to move the robotic arm in different directions and control the servo motors connected to the arm.
+2. U-shaped PVC attachment for the arm
 
-The project also includes sample code that demonstrates how to control the robotic arm using Python and MATLAB. This provides flexibility in how the arm can be controlled and integrated with other systems.
+3. Four rubber bands
 
-## Contributing
-Contributions to this project are welcome. You can contribute by suggesting improvements to the project, adding new features, fixing bugs, or documenting the project. To contribute, simply fork the project, make your changes, and submit a pull request.
+4. PVC pipe with a diameter of 50mm
 
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+5. PVC pipe with a diameter of 20mm
+
+6. Casing for electrical PVC wire
+
+7. Micro Farad capacitor
+8. 6V adapter
+
+9. Arduino Uno board
+
+10. Wires specifically for the Uno board
+
+11. Servo motor capable of rotating to different angles.
+
+
